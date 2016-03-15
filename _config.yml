@@ -1,0 +1,28 @@
+name: playroom
+favicon: null
+layout_spectrum: 0.7568708434700966
+typography_spectrum: 0.46462541073560715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.21430524624884129
+  lightness: 0.8564650672487915
+  saturation: 0.04304828937165439
+  rhythmicContrast: 0.3377713989466429
+purpose: []
