@@ -2,6 +2,7 @@ name: playroom
 favicon: null
 layout_spectrum: 0.7568708434700966
 typography_spectrum: 0.46462541073560715
+title: Journeys
 cta:
   domain: null
   bucket: null
